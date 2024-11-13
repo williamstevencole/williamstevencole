@@ -4,7 +4,7 @@ Hi, I'm William Cole 👋<br>I'm pursuing a dual degree in Computer Systems Engi
 <br>Feel free to reach out!<br>📧 Email: williamstevencole@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wscole) 
 
 # 💻 Tech Stack:
