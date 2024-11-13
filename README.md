@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm William Cole 👋<br>I'm pursuing a dual degree in Computer Systems Engineering and Data Science & AI Engineering, currently halfway through my studies. Driven by a passion for continuous learning, I’m deepening my skills in web development, cybersecurity, machine learning, and software engineering.<br><br>Right now, I’m diving into:<br><br>React for dynamic, responsive frontends<br>Node.js for scalable backend solutions<br>Docker to streamline deployment and development workflows<br>Feel free to reach out!<br>📧 Email: williamstevencole@gmail.com
+Hi, I'm William Cole 👋<br>I'm pursuing a dual degree in Computer Systems Engineering and Data Science & AI Engineering, currently halfway through my studies. Driven by a passion for continuous learning, I’m deepening my skills in web development, cybersecurity, machine learning, and software engineering.<br><br>Right now, I’m diving into:<br><br>React for dynamic, responsive frontends<br>Node.js for scalable backend solutions<br>Docker to streamline deployment and development workflows
+
+<br>Feel free to reach out!<br>📧 Email: williamstevencole@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,8 +17,6 @@ Hi, I'm William Cole 👋<br>I'm pursuing a dual degree in Computer Systems Engi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=coleexz&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coleexz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coleexz&icon=5&color=12)](https://visitcount.itsvg.in)
