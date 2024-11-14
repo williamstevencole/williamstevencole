@@ -1,4 +1,4 @@
-#  About Me:
+#  About Me
 Hi, I'm William Cole 👋<br>I'm pursuing a dual degree in Computer Systems Engineering and Data Science & AI Engineering, currently halfway through my studies. Driven by a passion for continuous learning, I’m deepening my skills in web development, cybersecurity, machine learning, and software engineering.<br><br>Right now, I’m diving into:<br><br>React for dynamic, responsive frontends<br>Node.js for scalable backend solutions<br>Docker to streamline deployment and development workflows
 
 <br>Feel free to reach out!<br>📧 Email: williamstevencole@gmail.com
