@@ -10,10 +10,6 @@ Hi, I'm William Cole 👋<br>I'm pursuing a dual degree in Computer Systems Engi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coleexz&theme=dark&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=coleexz&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=coleexz&icon=5&color=12)](https://visitcount.itsvg.in)
 
