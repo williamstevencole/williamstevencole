@@ -53,31 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/williamstevencole/williamstevencole/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/williamstevencole/williamstevencole/blob/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
