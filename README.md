@@ -116,8 +116,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/williamstevencole/williamstevencole/blob/output/snake.svg" alt="Snake animation" />
-
 
